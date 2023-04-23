@@ -29,3 +29,8 @@ Diese Dateien enthalten Code zur Datenbereinigung und -anreicherung mit weiteren
 
 ### .png & .dot Dateien
 Alle Dateien, die auf .png oder .dot enden sind Grafiken, die in "overall.ipynb" generiert werden und zwischengespeichert werden müssen.
+
+## Vorraussetzungen
+Zum Ausführen der Code-Blöcke des Random Forest Algorithmus muss die Software `graphviz` installiert sein.
+
+Graphviz findet man hier: https://www.graphviz.org/download/
