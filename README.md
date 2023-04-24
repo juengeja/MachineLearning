@@ -34,3 +34,5 @@ Alle Dateien, die auf .png oder .dot enden sind Grafiken, die in "overall.ipynb"
 Zum Ausführen der Code-Blöcke des Random Forest Algorithmus muss die Software `graphviz` installiert sein.
 
 Graphviz findet man hier: https://www.graphviz.org/download/
+
+Außerdem müssen die importierten Bibliotheken über pip o.Ä. installiert werden.
